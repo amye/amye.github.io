@@ -1,6 +1,6 @@
 # Amye.org
 
-![Amye Headshot][https://github.com/amye/amye.github.io/blob/master/images/amye.jpg]
+![Amye Headshot](https://github.com/amye/amye.github.io/blob/master/images/amye.jpg)
 
 Implementer of sanity in fast-paced chaos. Pleasant, cheerful and competent in a sea of snark. Currently, I'm at Acquia helping new customers get comfortable and get what they need to get started. I help technologists think about what they're doing, and help explain it to clients in ways that they like hearing. 
 
