@@ -10,5 +10,5 @@ I've written and presented on project management since 2009. I still like it.
  "Have I ever mentioned that "amyescavarda" sounds like a harry potter spell. It would cause nimrods to suddenly know what the f they're supposed to be doing." 
  "These clients are Hobbits. You are a Ranger and you have just led them through the wilderness."
 
-### The Real Reason you were here
+
 
