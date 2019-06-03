@@ -2,7 +2,7 @@ title: Amye.github.io
 description: Amye.org
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
