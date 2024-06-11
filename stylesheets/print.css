@@ -43,13 +43,13 @@ table {
 }
 body {
   font-size: 13px;
-  line-height: 1.5; 
+  line-height: 2; 
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   color: #000;
 }
 
 a {
-  color: #d5000d;
+  color: #77393d;
   font-weight: bold;
 }
 
